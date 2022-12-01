@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+aside{
+    width:234px;
+    height:100vh;
+    position: fixed;
+    box-shadow: 30px;
+    background: #fff;
+    border-right: 1px solid #DADADB;
+}
+
+.links:hover{
+    border-radius: 20px;
+    background-color:rgb(241, 241, 241);
+}
+
+.left{
+    width:470px;
+    margin-left: 400px;
+    height:100vh;
+}
+
+.right{
+    width:319px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height:100vh;
+    margin-top: 36px;
+}
+
+.comment{
+    color:#000;
+}
+
+.comment:hover{
+    color:#DADADB;
+}
+
+
+
+.love:hover{
+    color:red;
+}
